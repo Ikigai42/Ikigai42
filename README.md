@@ -1,17 +1,17 @@
 "This is a wonderful day. I've never seen this one before." -Maya Angelou✨
-- 👋 Hi, I’m @Ikigai42
+👋 Hi, I’m @Ikigai42
 
 - 👀 I’m interested in 🌲nature, 🧠learning, 💻code, and ✨design. 
 
 - What's something you wish you had done years earlier?
-- 🧘‍♂️ Fasting & Meditation
+-- 🧘‍♂️ Fasting & Meditation
 
 - What words of wisdom do you live by?
-- 👀Curiosity. 💪Arete. ✨Kindness. 
+-- 👀Curiosity. 💪Arete. ✨Kindness. 
 
 - 🌱 I’m currently learning Node.js
 
-- 🖖😎
+🖖😎
 
 <!---
 Ikigai42/Ikigai42 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
