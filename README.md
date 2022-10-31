@@ -1,7 +1,5 @@
 👋 Hi, I’m @Ikigai42
 
-"This is a wonderful day. I've never seen this one before." -Maya Angelou✨
-
 - 👀 I’m interested in 🌲nature, 🧠learning, 💻code, and ✨design. 
 
 - What's something you wish you had done years earlier?
@@ -11,6 +9,8 @@
 -- 👀Curiosity. 💪Arete. ✨Kindness. 
 
 - 🌱 I’m currently learning Node.js
+
+"This is a wonderful day. I've never seen this one before." -Maya Angelou✨
 
 🖖😎
 
