@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ikigai42
-- 👀 I’m interested in learning, nature, and code. 
+- 👀 I’m interested in nature, learning, code, and design. 
 - 🌱 I’m currently learning Node.js
 
 <!---
