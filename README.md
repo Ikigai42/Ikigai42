@@ -8,7 +8,7 @@
 - What words of wisdom do you live by?
 -- Curiosity👀 Arete💯 Kindness✨
 
-- 🌱 I’m currently learning Node.js at Launch School 🚀
+- 🌱 I’m currently learning JavaScript/Node.js at Launch School 🚀
 
 "This is a wonderful day. I've never seen this one before." -Maya Angelou✨
 
