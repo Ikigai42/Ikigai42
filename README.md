@@ -10,7 +10,7 @@ I strive to live by: Curiosity👀, Arete (excellence)💯, and Kindness✨.
 
 📚 When I'm not coding, you might find me sitting in nature🌳, listening to an audiobook🎵, or in pursuit of something else that brings me joy. I believe in the power of curiosity.👀
 
-👯 I look forward to contributing to the vibrant dev community. I passionately believe that (good) teamwork makes the dream work!✨
+I look forward to contributing to the vibrant dev community.🌍👯 I passionately believe that (good) teamwork makes the dream work!✨
 
 *"This is a wonderful day. I've never seen this one before."* -Maya Angelou✨
 
