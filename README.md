@@ -2,7 +2,9 @@
 
 I'm a believer in the power of programming as a tool for problem-solving.(and occasionally problem-creating🐞 😂) 
 
-I draw inspiration from the wisdom of Donald Knuth: >'Programming is the art of telling another human what one wants the computer to do.'🙌 
+I draw inspiration from the wisdom of Donald Knuth: 
+
+> 'Programming is the art of telling another human what one wants the computer to do.' 🙌 
 
 While an iterative process it drives me (sometimes successfully 🙃) to write clean, readable code that's friendly to both computers and humans.
 
