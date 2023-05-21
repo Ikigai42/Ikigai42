@@ -4,13 +4,13 @@ I'm a believer in the power of programming as a tool for problem-solving.(and oc
 
 I draw inspiration from the wisdom of Donald Knuth: 
 
-> "Programming is the art of telling another human what one wants the computer to do." 🙌 
+> "Programming is the art of telling another human what one wants the computer to do."👀 
 
-While an iterative process it drives me to write clean, readable code that's friendly to both computers and humans.(sometimes successfully 🙃)
+And it drives me to write clean, readable code that's friendly to both computers and humans.(sometimes successfully🙃)
 
-I strive to live by: Curiosity👀, Arete (excellence)💯, and Kindness✨.
+I strive to live by: Curiosity👀, Arete (excellence)💯, and Kindness✨
 
-💻 Currently, I'm immersing myself in JavaScript and Node.js at Launch School🚀. But my interests extend beyond any single language or framework. I'm a lifelong learner.
+💻 Currently, I'm immersing myself in JavaScript/Node.js at Launch School🚀. But my interests extend beyond any single language or framework. I'm a lifelong learner.
 
 > "This is a wonderful day. I've never seen this one before."✨ -Maya Angelou
 
